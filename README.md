@@ -15,7 +15,7 @@ My name is Lietson and ...:
 
 |  <a href="https://www.instagram.com/lietsondossanto/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Lietson dos santos](https://twitter.com/DosLietson)**                                                                                |
+|       **[Lietson dos santos](https://twitter.com/lietsondosssanto)**                                                                                |
 |<a href="https://twitter.com/lietsondossanto"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/lietsondossanto"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://facebook.com/lietsondossanto/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="#"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
 
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/lietsondossanto)](https://www.facebook.com/lietsondossanto)
