@@ -4,10 +4,6 @@ My name is Lietson and ...:
  - 📚 I really like to learn;
  - 💻🎮 a player in his spare time
 
- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/gentildpinto/count.svg" />
-</p>
 
 <h2 align="center">Some stats 💻</h2>
 <!-- status codes -->
@@ -21,18 +17,11 @@ My name is Lietson and ...:
 <p align="center">
 <a href="https://arshiamidos.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=gentildpinto&column=7&theme=dracula" />
+        <img src="https://github-profile-trophy.vercel.app/?username=lietsondossanto&column=7&theme=dracula" />
     </p>
 </a>
 </p>
  
-### Languages and Tools :computer:
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lietsondossanto.lietsondossanto)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/lietsondossanto)](https://github.com/lietsondossanto)[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/lietsondossanto)](https://github.com/lietsondossanto) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/lietsondossanto)](https://github.com/lietsondossanto) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/lietsondossanto)](https://github.com/lietsondossanto)[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https:https://github.com/lietsondossanto)](https://github.com/lietsondossanto)[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/lietsondossanto)](https://github.com/lietsondossanto)
-
-[![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/lietsondossanto)](https://www.facebook.com/lietsondossanto)
-[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lietsondossanto)](https://www.instagram.com/lietsondossanto)
-[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/lietsondossanto)](https://www.twitter.com/lietsondossato)
 
 <p align="center"> 
   Visitor count<br>
