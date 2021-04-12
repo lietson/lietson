@@ -1,8 +1,4 @@
-### Hello I'm [Lietson dos santos!](https://twitter.com/DosLietson) 👋 Welcome to my profile
-My name is Lietson and ...:
 
- - 📚 I really like to learn;
- - 💻🎮 a player in his spare time
 
 
 <h2 align="center">Some stats 💻</h2>
