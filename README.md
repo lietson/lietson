@@ -14,15 +14,17 @@ My name is Lietson and ...:
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/lietsondossanto/count.svg" />
- 
-[![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/lietsondossanto)](https://www.facebook.com/lietsondossanto)
-[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lietsondossanto)](https://www.instagram.com/lietsondossanto)
-[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/lietsondossanto)](https://www.twitter.com/lietsondossato)
 </p>
 
  ### Enjoy the repositories and good studies
  #### always come back and follow me😉
-
+ 
+<h4 align="center">Profiles :sunglasses:</h4>
+<p align="center">
+[![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/lietsondossanto)](https://www.facebook.com/lietsondossanto)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lietsondossanto)](https://www.instagram.com/lietsondossanto)
+[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/lietsondossanto)](https://www.twitter.com/lietsondossato)
+</p>
 <!--
 **lietson/lietson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
