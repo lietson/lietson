@@ -1,4 +1,46 @@
+```ruby
+class Me
+    USERNAME = 'lietsondossanto'
+    NAME = 'Lietsond Dos Santos'
+    
+    socialNetworks = {
+        FACEBOOK: '/Lietsondossanto'
+        INSTAGRAM: '@Lietsondossanto'
+        TWITTER: '@lietsondossanto'
+        LINKEDIN: '/in/lietsondossanto'
+    }
+    
+    CODE = {
+        frontend: ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'React.js'],
+        backend: ['Ruby on Rails', 'NodeJS'],
+        architecture: ['SPA', 'MVC', 'REST']
+        database: ['PostgreSQL', 'MySQL', 'SQLite3'],
+        tools: ['VSCode', 'git', 'GitHub', 'heroku', 'postman'],
+        so: ['Linux']
+    }
+    
+    def self.whoami
+        puts NAME
+    end
+    
+    def self.getDailyKnowledge
+        puts [
+            :Ruby,
+            :RubyOnRails,
+            :Javascript,
+            :TypeScript,
+            :CSS,
+            :TDD
+        ]
+    end
 
+    def self.getFutureGoal
+        puts 'To contribute to open source.'
+    end
+end
+
+Me.whoami
+```
 
 
 <h2 align="center">Some stats 💻</h2>
