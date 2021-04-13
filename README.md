@@ -51,16 +51,6 @@ Me.whoami
     </p>
 </a>
 
-<!-- thropy -->
-<p align="center">
-<a href="https://arshiamidos.github.io">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=lietsondossanto&column=7&theme=dracula" />
-    </p>
-</a>
-</p>
- 
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/lietsondossanto/count.svg" />
