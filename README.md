@@ -106,7 +106,7 @@ Me.whoami
 <a href="https://www.reddit.com/user/lietsondossanto" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="lietsondossanto" height="20" width="20" />
 </a>
-<a href="https://www.discord.com/channels/784013344561561630" target="blank">
+<a href="https://www.discord.com/channels/Lietson#2958" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="lietsondossanto" height="20" width="20" />
 </a>
 <a href="https://github.com/lietsondossanto" target="blank">
@@ -118,7 +118,7 @@ Me.whoami
 <a href="https://t.me/lietsondossanto" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="lietsondossanto" height="20" width="20" />
 </a>
-<a href="https://open.spotify.com/user/27nmzpwwd5wwhxvirwxb7cnk0?si=yDCPfpUPRjiIQRtBJr0LfQ" target="blank">
+<a href="https://open.spotify.com/user/swe28p5ju00swle7ue7lfg3y2" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="lietsondossanto" height="20" width="20" />
 </a>
 <a href="https://soundcloud.com/lietsondossanto" target="blank">
