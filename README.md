@@ -11,11 +11,11 @@ class Me
     }
     
     CODE = {
-        frontend: ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'React.js'],
+        frontend: ['HTML', 'CSS', 'JavaScript','React.js'],
         backend: ['Ruby on Rails', 'NodeJS'],
         architecture: ['SPA', 'MVC', 'REST']
-        database: ['PostgreSQL', 'MySQL', 'SQLite3'],
-        tools: ['VSCode', 'git', 'GitHub', 'heroku', 'postman'],
+        database: ['MySQL'],
+        tools: ['VSCode', 'git', 'GitHub', 'heroku', 'Insomnia'],
         so: ['Linux']
     }
     
