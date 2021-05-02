@@ -47,13 +47,14 @@ Me.whoami
 <!-- status codes -->
 <a align="center" href="https://lietsondossanto.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lietsondossanto&show_icons=true&theme=dracula" alt="my_github_stats" height="170" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lietsondossanto&layout=compact&theme=dracula" alt="languages" height="170">
-    <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lietsondossanto/count.svg" />
-</p>
-   </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=lietsondossanto&show_icons=true&theme=dracula" alt="my_github_stats" height="170" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lietsondossanto&layout=compact&theme=dracula" alt="languages" height="170">
+    </p>
 </a>
+
+<p align="center"> 
+    Visitor count<br>
+    <img src="https://profile-counter.glitch.me/lietsondossanto/count.svg" />
+</p>
 
 <!-- programming langs i work-->
 <p align="center">
