@@ -11,7 +11,7 @@ class Me
     }
     
     CODE = {
-        frontend: ['HTML', 'CSS', 'JavaScript','React.js'],
+        frontend: ['HTML', 'CSS', 'JavaScript','React.js', 'Next.js'],
         backend: ['Ruby on Rails', 'NodeJS'],
         architecture: ['SPA', 'MVC', 'REST']
         database: ['MySQL'],
