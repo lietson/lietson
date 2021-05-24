@@ -94,7 +94,7 @@ Me.whoami
 <a href="https://medium.com/@lietsondossanto" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@lietsondossanto" height="20" width="20" />
 </a>
-<a href="https://linkedin.com/in/lietsondossanto" target="blank">
+<a href="https://www.linkedin.com/in/lietsondossanto/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lietsondossanto" height="20" width="20" />
 </a>
 <a href="https://twitter.com/lietsondossanto" target="blank">
